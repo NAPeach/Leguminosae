@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Leguminosae on the Caribbean *hacienda*"
+       title="Leguminosae on the Caribbean [*hacienda*]"
        author="Niall A. Peach"
        source-image="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
        banner="https://github.com/lucasmerte/testvfr/blob/main/Yerba_Mate.jpg?raw=true"
