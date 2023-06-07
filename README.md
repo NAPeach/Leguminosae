@@ -16,7 +16,7 @@
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q891922" title="bombilla">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Alfalfa-12a.JPG" label="Alfalfa Plant with Influresensce" description="Photograph" license="Public Domain">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/75_Medicago_sativa_L.jpg" label="Alfalfa Leaf" description="Photograph, Institution" label="Public Domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/75_Medicago_sativa_L.jpg" label="Alfalfa Leaf" description="Photograph, Institution" label="Public Domain" fit="containt">
 
 ## History 
 
